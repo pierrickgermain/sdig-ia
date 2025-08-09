@@ -1,0 +1,7 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "rules": {
+    // Relaxed rules can be added here if needed. For this codebase the default
+    // Next.js configuration provides sensible defaults.
+  }
+}
